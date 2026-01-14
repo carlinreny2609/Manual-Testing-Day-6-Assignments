@@ -1,0 +1,34 @@
+The Defect Life Cycle (Bug Life Cycle) is the path a defect goes through from its initial discovery to its final closure. It defines the stages, transitions, and responsibilities involved in tracking and resolving software defects.journey of a defect passes through stages like New → Assigned → Open → Fixed → Retest → Verified → Closed, with branches for Rejected, Deferred, and Reopened. 
+
+
+Stages:
+
+New:Tester finds a defect and logs it in the tracking tool. The tester provides a proper Defect document to the Development team so that the development team can refer to Defect Document and can fix the bug accordingly.
+
+Assigned:The defect is assigned to a developer for analysis and fixing.When the defect is assigned to the
+developer team the status of the bug changes to the 'Assigned' state.
+
+Open:Developer acknowledges the defect and starts working on it.Based on some specific reason if the developer team feels that the defect is not appropriate then it is transferred to either the 'Rejected' or 'Deferred' state.
+
+
+Fixed:Developer applies a code change to resolve the defect.
+
+
+Retest: Tester verifies the fix in the new build.
+
+Reopened:If the defect persists after retesting, it is reopened and sent back to dev.bug goes to
+the 'Open' state and goes through the life cycle again. This means it goes for Re-fixing by the developer
+team.
+
+
+Deferred:Fix is postponed to a future release. If the developer team feels that the defect that is identified is not a prime priority and it can get fixed in further updates or releases then the developer team can mark the status as 'Deferred'.
+
+This means from the current defect life cycle it will be terminated.
+
+
+Rejected:Developer/test lead rejects the defect (not valid, duplicate, or expected).
+
+Closed:Tester confirms resolution and closes the defect in the tool.
+
+
+

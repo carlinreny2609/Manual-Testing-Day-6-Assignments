@@ -1,0 +1,50 @@
+Test Metrics:
+---------------
+They are the parameters to measure your testing progress and product quality. 
+
+It is also called standards of measuring the Testing process, product, project.
+
+There are three types of Test metrics.
+
+1.Process Metric:
+----------------
+The metric used to improve the process efficiency of the SDLC.
+
+It can be used to improve the software development and maintenance.
+
+Examples include Effectiveness Defect removal during development.
+
+2.Product Metrics:
+------------------
+
+ It describes the quality of the software product. 
+
+The size, Complexity, design features, Performance and quality level.
+
+3.Project Metrics:
+------------------
+It describes the project characteristics and execution.
+
+Example include the number of developers, cost, schedule and productivity.
+
+Example Test Metrics:
+======================
+Defect Density:
+
+Number of defects per size of software (e.g., per 1000 lines of code).
+
+Test Case Execution Rate:
+
+Percentage of executed test cases out of total planned.
+
+Defect Removal Efficiency (DRE):
+
+Ratio of defects found before release vs. total defects (including post-release).
+
+Test Coverage:
+
+Percentage of requirements or code covered by test cases.
+
+Cycle Time :
+
+Cycle Time = End Date – Start Date
